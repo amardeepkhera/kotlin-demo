@@ -1,0 +1,14 @@
+ claim class with id,type,amount,status
+
+main method
+
+motor claim
+
+home claim usinf copy with named args
+
+comapre both claims
+
+java claim without apply
+
+java claim with apply
+
